@@ -5,7 +5,7 @@
 
 >This isn’t a portfolio. It’s a collection of semi-functional shortcuts, experiments, and digital duct tape that’s worked well enough to share.
 
->If it helps you too, awesome. If not — it probably wasn’t built for you anyway.
+>If it helps you too, awesome. If not — it probably wasn’t meant for you anyway.
 
 
 ## 💻 TECH STACK:
