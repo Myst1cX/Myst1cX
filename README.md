@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Myst1cX&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Myst1cX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/apktopidev@gmail.com)
+# 💰 CONTRIBUTE: [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/apktopidev@gmail.com)
 
 If any of my projects saved you time, frustration, or a few brain cells — you may toss me a coin of appreciation.
   
