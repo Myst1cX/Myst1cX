@@ -1,4 +1,4 @@
-## ABOUT ME:
+## 🔭 ABOUT ME:
 >I wouldn’t call myself a developer in the traditional sense. I just like solving little annoyances with automation, even if it means cobbling something together using the magic of the internet, some clever tools, and a lot of trial and error.
 
 >Most of the time, I build out of necessity: browser extensions, small tools, or little scripts that automate away the repetitive, the annoying, and the just-plain-boring.
