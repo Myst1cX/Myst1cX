@@ -1,4 +1,6 @@
-<h2> Hi, I'm MysticX! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa255dDdhcDdkNmhnbWNuY2VhOXB2MnB1aW9kOHlvcTUxd3R4MDc0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PeMwIzbeaYxi6H2vus/giphy.gif" width="50"></h2>
+<h2> Hi, I'm MysticX! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejF5bndjdGQyZG02ZXoyNTFtaWNudWh2OWJvd2k3MGllNTRxcmhodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kViRpXT8R6q9N57cSg/giphy.gif" width="50"></h2>
+
+https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Myst1cX.Myst1cX)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
