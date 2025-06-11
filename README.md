@@ -4,12 +4,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 >I wouldn’t call myself a developer in the traditional sense. I just like solving little annoyances with automation, even if it means cobbling something together using the magic of the internet, some clever tools, and a lot of trial and error.
-
-Most of the time, I build out of necessity: browser extensions, small tools, or little scripts that automate away the repetitive, the annoying, and the just-plain-boring.
-
-This isn’t a portfolio. It’s a collection of semi-functional shortcuts, experiments, and digital duct tape that’s worked well enough to share.
-
-If it helps you too, awesome. If not - it probably wasn’t meant for you anyway.
+>Most of the time, I build out of necessity: browser extensions, small tools, or little scripts that automate away the repetitive, the annoying, and the just-plain-boring.
+>This isn’t a portfolio. It’s a collection of semi-functional shortcuts, experiments, and digital duct tape that’s worked well enough to share.
+>If it helps you too, awesome. If not - it probably wasn’t meant for you anyway.
 
 
 ## 💻 TECH STACK:
