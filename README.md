@@ -1,4 +1,8 @@
-## 🔭 ABOUT ME:
+<h2> Hi, I'm MysticX! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Myst1cX.Myst1cX)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 >I wouldn’t call myself a developer in the traditional sense. I just like solving little annoyances with automation, even if it means cobbling something together using the magic of the internet, some clever tools, and a lot of trial and error.
 
 >Most of the time, I build out of necessity: browser extensions, small tools, or little scripts that automate away the repetitive, the annoying, and the just-plain-boring.
@@ -6,6 +10,10 @@
 >This isn’t a portfolio. It’s a collection of semi-functional shortcuts, experiments, and digital duct tape that’s worked well enough to share.
 
 >If it helps you too, awesome. If not — it probably wasn’t meant for you anyway.
+
+<h2> Hi, I'm Jocs! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+
 
 
 ## 💻 TECH STACK:
