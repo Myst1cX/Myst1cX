@@ -1,4 +1,4 @@
-<h2> Hi, I'm MysticX! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejF5bndjdGQyZG02ZXoyNTFtaWNudWh2OWJvd2k3MGllNTRxcmhodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kViRpXT8R6q9N57cSg/giphy.gif" width="50"></h2>
+<h2> Hi, I'm MysticX! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU3Y25tMWtuY2ZpNGIyYmlvam42OXVqenZ0MDR4c2J2cW5sYjhoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XF3VVWS898pPJidU1l/giphy.gif" width="50"></h2>
 
 https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif
 
