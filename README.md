@@ -33,7 +33,7 @@
 
 
 ## 💰 MY PAYPAL: 
->If any of my projects saved you time, frustration, or a few brain cells — you may toss me a coin of appreciation below:
+>If any of my projects saved you time, frustration, or a few brain cells - you may toss me a coin of appreciation below:
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/apktopidev@gmail.com)
   
