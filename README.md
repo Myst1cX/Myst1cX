@@ -1,6 +1,6 @@
 <h2> Hi, I'm MysticX! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Myst1cX.Myst1cX)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Myst1cX.Myst1cX)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 >I wouldn’t call myself a developer in the traditional sense. I just like solving little annoyances with automation, even if it means cobbling something together using the magic of the internet, some clever tools, and a lot of trial and error.
