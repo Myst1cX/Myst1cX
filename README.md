@@ -4,7 +4,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 > Disclaimer: Most of my code is built with the help of LLM tools, mainly Copilot.   
-> What is published here are userscripts (and browser extensions) that work well enough to be shared.  
+> What is published here are userscripts (and browser extensions) that work well enough to be shared.
+> I try to provide sufficient documentation.
 > If they help you in any way, that's awesome! 
 
 ## 💻 TECH STACK:
