@@ -3,10 +3,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Myst1cX.Myst1cX)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-> Disclaimer: Most of my code is built with the help of LLM tools, after a lot of trial and error.
-> I use this place as a testing ground. It helps me on my journey to become a better coder.
-> What is published here are userscripts (and browser extensions) that work well enough to be shared.
-> If they help you in any way, that's awesome! 
+> Disclaimer: Most of my code is built with the help of LLM tools, after a lot of trial and error.  
+> I use this place as a testing ground. It helps me on my journey to become a better coder.  
+> What is published here are userscripts (and browser extensions) that work well enough to be shared.  
+> If they help you in any way, that's awesome!   
 
 ## 💻 TECH STACK:
 
