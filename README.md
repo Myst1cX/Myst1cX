@@ -3,8 +3,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Myst1cX.Myst1cX)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-> Disclaimer: Most of my code is written with the help of LLM tools, mainly Copilot.   
-> What is published here are mostly userscripts (and browser extensions) that were built out of personal need, with a lot of trial and error and work well enough to be shared. If they help you, that's awesome! 
+> Disclaimer: Most of my code is with the help of LLM tools, mainly Copilot.   
+> What is published here are mostly userscripts (and browser extensions) that work well enough to be shared. If they help you, that's awesome! 
 
 ## 💻 TECH STACK:
 
